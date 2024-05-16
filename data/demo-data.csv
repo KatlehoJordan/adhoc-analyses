@@ -1,0 +1,6 @@
+name,question1,question2
+David,[Correct;Incorrect;Other Incorrect],[Right;Wrong;Other Wrong]
+Jenny,[Correct],[Right]
+Osama,[Incorrect],[Other Wrong]
+Bin,[Other Incorrect],[Wrong]
+Anna,[Correct;Other Correct],[Right;Other Right]

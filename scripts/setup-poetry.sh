@@ -7,7 +7,7 @@ git init
 # Open pyproject.toml and replace the package name with the current directory name
 proj_name=${PWD##*/}
 
-sed -i "s/placeholder/$proj_name/g" pyproject.toml
+sed -i "s/adhoc-analyses/$proj_name/g" pyproject.toml
 
 # If using Git Bash on Windows, use python.bat files in poetry environment
 if [ "$MSYSTEM" != "" ]; then
